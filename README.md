@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vineetha
-- 👀 I’m interested in developing web applications as well as open cv projects
+- 👀 I’m interested in developing web applications 
 - 🌱 I’m currently learning EEE
 
 <!---
