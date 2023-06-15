@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vineetha
-- 👀 I’m interested in data analytics and data visualization, Statistical analysis.
+- 👀 I’m interested in doing projects in data analytics and data visualization, Statistical analysis.
 
 ✨✨✨
 
