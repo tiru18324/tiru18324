@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **tirumalarajuvineetha@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
-
+- ⚡ Portfolio : https://www.novypro.com/profile_projects/vineethatirumala-raju
 
 <p align="left">
 </p>
